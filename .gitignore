@@ -3,3 +3,4 @@ __pycache__
 mypackage
 myutils
 *.log
+.DS_Store
