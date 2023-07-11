@@ -1,0 +1,7 @@
+INFO:root:Time required for ./star.jpg = 0.001276254653930664
+INFO:root:Time required for ./star.jpg = 0.0008771419525146484
+ERROR:root:[Errno 2] No such file or directory: './sky.jpg'
+INFO:root:Time required for ./sky.jpg = 0.0004761219024658203
+INFO:root:Time required for ./star.jpg = 0.0036199092864990234
+INFO:root:Time required for ./star.jpg = 0.0015017986297607422
+INFO:root:Time required for ./star.jpg = 0.016756772994995117
