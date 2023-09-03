@@ -1,4 +1,4 @@
-# Exception: Description, Traceback
+# Exception object: Description, Traceback
 # for i in range(5)
 #     print("Hello, world!")
 
@@ -12,4 +12,4 @@
 
 import math  # cmath module
 
-print(math.sqrt(-1))
+print(math.sqrt(-1))  # type is correct, value can't be handled
